@@ -57,7 +57,7 @@ class SpiderMain(object):
 
 if __name__ == "__main__":
     obj_spider = SpiderMain()
-    #obj_spider.craw()
+    obj_spider.craw()
     schedule = sched.scheduler(time.time, time.sleep)  
     i = 0
     while i < 60 :
