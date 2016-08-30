@@ -9,4 +9,9 @@ Results will be saved in Result.xls
 
 ***
 
-wrote by **GeminiLn**
+**Use Python**
+
+***
+
+By *GeminiLn*
+
