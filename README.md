@@ -9,7 +9,7 @@ Results will be saved in Result.xls
 
 ***
 
-**Use Python**
+**Use Python 3.4**
 
 ***
 
